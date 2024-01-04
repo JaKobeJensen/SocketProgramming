@@ -1,0 +1,5 @@
+I learned how to transfer files using UDP socket programming utilizing python scripting.
+I learned that it can be difficult and challenging to make sure that the file transfered successfully and to make sure the client and server are on the same page.
+I learned it can be difficult to debug when dealing with multiple programs running simultaneously.
+I utilized try except statements to catch different errors and I threw my own errors when the server was not responding or when the server was too busy.
+I might of over complicated things.
